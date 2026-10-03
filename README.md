@@ -1,5 +1,5 @@
 # LetMeAttack
-Separates mouse movement from attacking in Minecraft Dungeons This mod was made using the [Minecraft Dungeons Mod Kit](https://github.com/Dokucraft/Dungeons-Mod-Kit).
+Separates mouse movement from attacking in Minecraft Dungeons. This mod was made using the [Minecraft Dungeons Mod Kit](https://github.com/Dokucraft/Dungeons-Mod-Kit).
 
 # READ THIS
 Left clicking to interact with things will not work, it will ONLY attack!
