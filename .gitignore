@@ -1,5 +1,6 @@
 *
 !.gitignore
+!cook_assets.bat
 !/UE4Project/
 !/UE4Project/**
 UE4Project/Build/*
